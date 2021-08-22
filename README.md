@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Catskhi
-- 👀 I’m interested in OOP
-- 🌱 I’m currently learning and improving my OOP.
+- 👀 I’m interested in Godot
+- 🌱 I’m currently learning and improving my skills in GDscript and Godot.
 - 💞️ I’m looking to collaborate on my new and... first website.
 - 📫 How to reach me:
 Instagram: @Catskhi 
