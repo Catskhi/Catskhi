@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Catskhi
 - 👀 I’m interested in Godot
-- 🌱 I’m currently learning and improving my skills in GDscript and Godot.
+- 🌱 I’m currently learning and improving my skills in GDscript, Godot and procedural generations.
 - 💞️ I’m looking to collaborate on my new and... first website.
 - 📫 How to reach me:
 Instagram: @Catskhi 
