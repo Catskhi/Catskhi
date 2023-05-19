@@ -2,7 +2,7 @@
 
 Computer Science student with a passion for programming from Brazil 🇧🇷. I have experience with front-end and back-end, looking for studying mobile on the future.
 
-🧠 Currently learning: <strong>Vue.js</strong>
+🧠 Currently learning: <strong>Next.Js</strong>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://catskhi-portfolio.vercel.app/)
