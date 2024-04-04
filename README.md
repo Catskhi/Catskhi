@@ -3,7 +3,6 @@
 Computer Science student with a passion for programming from Brazil 🇧🇷. I have experience with front-end and back-end, looking for studying mobile on the future.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://catskhi-portfolio.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catskhi/)
 
 
