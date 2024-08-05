@@ -1,6 +1,6 @@
 # Hello there, I'm Enzo! 👋
 
-Computer Science student with a passion for programming from Brazil 🇧🇷. I have experience with front-end and back-end, looking for studying mobile on the future.
+Currently looking to build elegant applications. Focusing on low-level languages and a bit of functional programming.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catskhi/)
