@@ -22,7 +22,7 @@ I build full-stack applications, games, some low level experiments and other cra
 
 ## 📊 GitHub Stats:
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=catskhi&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_color=83a598&langs_count=6&hide=c%2B%2B" alt="catskhi Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=catskhi&show_icons=true&locale=en&layout=compact&theme=gruvbox&border_color=83a598&langs_count=8&hide=c%2B%2B" alt="catskhi Top Languages" />
 </p>
 
 <p>&nbsp;
